@@ -8,6 +8,8 @@ which can be read up on by googling
 [Auto correlation](http://www.google.com/search?q=autocorrelation) or 
 [Cross correlation](http://www.google.com/search?q=crosscorrelation)
 
+[![Build Status](https://www.travis-ci.org/dzwarg/timelapse.png)](https://www.travis-ci.org/dzwarg/timelapse)
+
 ## Usage
 
     ./register.py -d <directory> -s <standard set>
